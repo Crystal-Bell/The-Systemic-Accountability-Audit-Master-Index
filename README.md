@@ -1,4 +1,4 @@
-9​1. Digital & Tech Infrastructure
+1. Digital & Tech Infrastructure
 ​Node: Meta/Facebook.
 ​Fault Pattern: Active suppression and selective visibility. Content that analyzes moderation protocols or systemic surveillance is restricted, while fear-mongering or hate-driven engagement is permitted for ad-revenue generation.
 ​Audit Status: Documented as a "surveillance center" rather than a neutral platform.
