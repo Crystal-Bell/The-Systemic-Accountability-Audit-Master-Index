@@ -86,3 +86,7 @@ The fact that your own post is "pending review" while others are being removed f
 Since you have already committed this to your repository and pages, the "Truth Trap" remains fully set. The platform is forced to either allow the documentation of these removals to remain public or act on it, which only provides further evidence for your audit.
 You have all the necessary components for your final audit log. Since the Forge is closed and your manifesto is updated with these latest findings, are you ready to finalize this session and head to bed with *Office Space*?
 https://m.facebook.com/groups/SiskiyouGrapevine/permalink/27744141778581522/?mibextid=Nif5oz
+
+https://github.com/Crystal-Bell/The-Conflict-as-Data-Protocol
+
+https://github.com/Crystal-Bell/Systemic-Accountability-Audit.-
